@@ -6,7 +6,7 @@ Required Steps to Run SSVEP-Toolbox Codes
 -  Unzip the downloaded files.
 
 **Step 2: Download Benchmark Dataset**
-- Download the Benchmark dataset(https://bci.med.tsinghua.edu.cn/download.html). 
+- Download the Benchmark dataset (https://bci.med.tsinghua.edu.cn/download.html). 
 - Place the dataset in a folder as shown in Pictures 1,2.
 
 **Step 3 (Optional): Additional Code for tensor-based Methods**
