@@ -25,6 +25,6 @@ If you want to run MCCA, MsetCCA, or Multiway CCA, you need to:
 
 **When using this resource, please cite the original publication:**
 
-Norizadeh Cherloo, M. et al., "A comprehensive study of template-based frequency detection methods in SSVEP-based brain–computer interfaces," Behavior Research Methods, 2025.  
+Norizadeh Cherloo, M. et al., _"A comprehensive study of template-based frequency detection methods in SSVEP-based brain–computer interfaces,"_ Behavior Research Methods, 2025.  
 **Read the full paper at:** https://link.springer.com/article/10.3758/s13428-025-02710-6  
 DOI: https://doi.org/10.3758/s13428-025-02710-6
