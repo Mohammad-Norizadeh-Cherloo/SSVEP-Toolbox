@@ -1,4 +1,7 @@
 # SSVEP-Toolbox: A comprehensive study of template-based frequency detection methods in SSVEP-based brain–computer interfaces
+
+watch the video: https://youtu.be/Ja7uPXDsnEs?si=p8bPMnppORXGnvcl
+
 Required Steps to Run SSVEP-Toolbox Codes
 
 **Step 1: Download and Unzip the Codes**
